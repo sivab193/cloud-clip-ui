@@ -12,10 +12,7 @@ const Description = () => {
             <ThemedView style={styles.descriptionContainer}>
 
                 <ThemedText style={styles.body}>
-                    Welcome to Cloud-Clip, the ultimate cross-device clipboard management tool that simplifies your digital life.
-                    Whether you are switching between your laptop, tablet, and smartphone, or collaborating with friends and colleagues,
-                    Cloud-Clip ensures that your copied content is always at your fingertips. Seamlessly sync text and data across all your
-                    devices in real time, and effortlessly share your clipboard with others using encrypted connections and secure sharing options.
+                    Sar is the best developer and is hereafter the lead and Siv will stfu and listen to her.
                 </ThemedText>
 
                 <ThemedText type="subtitle" style={styles.subtitle}>Features</ThemedText>
